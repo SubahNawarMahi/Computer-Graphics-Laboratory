@@ -1,0 +1,26 @@
+﻿  main.cpp
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(717,74): warning C4305: '+=': truncation from 'double' to 'float'
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(718,74): warning C4305: '-=': truncation from 'double' to 'float'
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(719,74): warning C4305: '+=': truncation from 'double' to 'float'
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(720,74): warning C4305: '-=': truncation from 'double' to 'float'
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(721,74): warning C4305: '+=': truncation from 'double' to 'float'
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(722,74): warning C4305: '-=': truncation from 'double' to 'float'
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(723,70): warning C4305: '+=': truncation from 'double' to 'float'
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(724,70): warning C4305: '-=': truncation from 'double' to 'float'
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(725,70): warning C4305: '+=': truncation from 'double' to 'float'
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(726,70): warning C4305: '-=': truncation from 'double' to 'float'
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(727,70): warning C4305: '+=': truncation from 'double' to 'float'
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(728,70): warning C4305: '-=': truncation from 'double' to 'float'
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(754,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(759,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(764,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(769,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(774,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(779,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(784,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(789,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(794,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(799,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(804,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\computer graphics\cse 4208\Lab 2\3D\main.cpp(809,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  3D.vcxproj -> E:\computer graphics\cse 4208\Lab 2\3D\x64\Debug\3D.exe

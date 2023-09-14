@@ -1,0 +1,10 @@
+﻿  2dtransform.cpp
+E:\computer graphics\cse_4208\lab1\2dtransform.cpp(321,28): warning C4305: '+=': truncation from 'double' to 'float'
+E:\computer graphics\cse_4208\lab1\2dtransform.cpp(325,28): warning C4305: '-=': truncation from 'double' to 'float'
+E:\computer graphics\cse_4208\lab1\2dtransform.cpp(329,28): warning C4305: '+=': truncation from 'double' to 'float'
+E:\computer graphics\cse_4208\lab1\2dtransform.cpp(333,28): warning C4305: '-=': truncation from 'double' to 'float'
+E:\computer graphics\cse_4208\lab1\2dtransform.cpp(337,24): warning C4305: '+=': truncation from 'double' to 'float'
+E:\computer graphics\cse_4208\lab1\2dtransform.cpp(341,24): warning C4305: '-=': truncation from 'double' to 'float'
+E:\computer graphics\cse_4208\lab1\2dtransform.cpp(345,24): warning C4305: '+=': truncation from 'double' to 'float'
+E:\computer graphics\cse_4208\lab1\2dtransform.cpp(349,24): warning C4305: '-=': truncation from 'double' to 'float'
+  lab1.vcxproj -> E:\computer graphics\cse_4208\lab1\x64\Debug\lab1.exe
